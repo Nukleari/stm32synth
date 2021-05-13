@@ -1,0 +1,7 @@
+synth.cpp:5:1:Synth::Synth(DAC_HandleTypeDef*, uint32_t, TIM_HandleTypeDef*)	24	static
+synth.cpp:11:6:void Synth::update(uint8_t)	40	static
+synth.cpp:29:6:void Synth::config(uint8_t)	16	static
+synth.cpp:69:6:void Synth::generate_sin()	32	static
+synth.cpp:76:6:void Synth::generate_triangle()	24	static
+synth.cpp:84:6:void Synth::generate_square()	24	static
+synth.cpp:92:6:void Synth::generate_saw()	24	static
